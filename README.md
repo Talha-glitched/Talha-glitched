@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A passionate Full Stack developer working in MERN Stack</h3>
 
-- 🔭 I’m currently working on [Dubai Medical Research forum](dmrf.ae)
+- 🔭 I’m currently working on [Dubai Medical Research forum](www.dmrf.ae)
 
 - 💬 Ask me about **React, Express, RESTFUL API's**
 
